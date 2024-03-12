@@ -1,5 +1,13 @@
   /* Create an accessible color palette using var()function */
   /* https://www.w3schools.com/css/css3_variables.asp */
+  :root {
+    --dark: #003049;
+    --red: #D62828;
+    --orange: #F77F00;
+    --yellow: #FCBF49;
+    --light: #EAE2B7;
+  }
+  
   body {
     font-family: 'Open Sans';
   }
