@@ -1,6 +1,10 @@
   /* Create an accessible color palette using var()function */
   /* https://www.w3schools.com/css/css3_variables.asp */
-  
+  body {
+    font-family: 'Open Sans';
+  }
+
+
   form {
     display: grid;
     grid-template-columns: 50% 50%;
